@@ -16,7 +16,7 @@ I enjoy learning by building projects and exploring new technologies.
 
 ##  Featured Projects
 
-### 🤖Trading Bot
+### Trading Bot
 
 A Python-based trading bot developed for Binance Futures Testnet with support for market and limit orders.
 
@@ -52,7 +52,7 @@ A machine learning project focused on predicting credit risk using customer-rela
 
 To become an **AI/ML Developer** and build practical software solutions using Python and machine learning.
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * GitHub: [nandhitanambiar-collab](https://github.com/nandhitanambiar-collab)
 * LinkedIn: https://www.linkedin.com/in/nandhita-nambiar-560438335/
