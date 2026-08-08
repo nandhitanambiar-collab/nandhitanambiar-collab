@@ -59,4 +59,5 @@ To become an **AI/ML Developer** and build practical software solutions using Py
 
 ---
 
-⭐ Check out my repositories to see what I'm building!
+ Check out my repositories to see what I'm building!
+
